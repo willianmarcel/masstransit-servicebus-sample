@@ -1,1 +1,1 @@
-# masstransit-servicebus-sample
+# Azure Service Bus and MassTransit with .NET 6
